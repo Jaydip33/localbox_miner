@@ -1,0 +1,9 @@
+.fromGroup {
+  border: 2px solid black;
+  width: 35%;
+  display: inline-block;
+  margin: 20px;
+  padding-bottom: 20px;
+  border-radius: 10px;
+  background-color: aqua;
+}
