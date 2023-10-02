@@ -1,5 +1,5 @@
 import './App.css';
-import Localstorage from './Components/Localstorage';
+// import Localstorage from './Components/Localstorage';
 import Sessionstorage from './Components/Sessionstorage';
 
 function App() {
